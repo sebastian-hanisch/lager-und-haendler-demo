@@ -1,7 +1,6 @@
 # Lager und Händler: Zerlegung statt gemeinsamer Rechnung – Streamlit-Demo
 
-<!-- Nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-lager-und-haendler-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-lager-und-haendler-demo.streamlit.app/)**
 
 Stück der **bestandspolitiken** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“. Vorgänger ist das Stück zur Lieferzeit (die Bestandsposition als eine Zahl: Kante `fix`, denn **eine** Bestandsposition genügt als Zustand nur für **einen** Bestand); Nachfolger ist die Frage, wo die exakte Rechnung aufgibt. Das Vehikel ist dasselbe wie in der ganzen Reihe: ein Artikel, eine Entscheidung je Periode („wie viel bestellen“), Poisson-Nachfrage mit Mittel 3, Fehlmenge als Rückstand. Neu ist der zweite Bestand: ein **Lager** beliefert einen **Händler**, beide bestellen.
 
